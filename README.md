@@ -32,9 +32,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node-529f41?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/Mysql-015f8b?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white);
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Shopify](https://img.shields.io/badge/Shopify-529f41?style=for-the-badge&logo=shopify&logoColor=white)&nbsp;
-![Liquid](https://img.shields.io/badge/Liquid-00BFFF?style=for-the-badge&logo=liquid&logoColor=white);
+![Liquid](https://img.shields.io/badge/Liquid-00BFFF?style=for-the-badge&logo=liquid&logoColor=white)
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
