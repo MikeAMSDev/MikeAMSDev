@@ -32,7 +32,9 @@
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
 ![Node](https://img.shields.io/badge/Node-529f41?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;
 ![Mysql](https://img.shields.io/badge/Mysql-015f8b?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white);
+![Shopify](https://img.shields.io/badge/Shopify-529f41?style=for-the-badge&logo=shopify&logoColor=white)&nbsp;
+![Liquid](https://img.shields.io/badge/Liquid-00BFFF?style=for-the-badge&logo=liquid&logoColor=white);
 
 
 ### 🧰 &nbsp;Version Controll & Tools 
@@ -49,6 +51,7 @@
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)&nbsp;
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+![Azure devops](https://img.shields.io/badge/Azure%20DevOps-00AEEF?style=for-the-badge&logo=azure-devops&logoColor=white)&nbsp;
 
 <h3> 🤝🏻 &nbsp;Connect With Me </h3>
 
